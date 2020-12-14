@@ -12,4 +12,8 @@
 ## Recommendation Model
 - MLP
 
+## Research Architerture
 ![image](https://user-images.githubusercontent.com/37866322/101493116-f5705200-39a8-11eb-91bf-4c5712558cae.png)
+
+## Feature Importance
+![image](https://user-images.githubusercontent.com/37866322/102145038-ed814800-3ea9-11eb-8fd5-e8c2c2e5d1f6.png)
