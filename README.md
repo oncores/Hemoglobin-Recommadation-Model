@@ -17,3 +17,8 @@
 
 ## Feature Importance
 ![image](https://user-images.githubusercontent.com/37866322/102145038-ed814800-3ea9-11eb-8fd5-e8c2c2e5d1f6.png)
+
+## Result
+![image](https://user-images.githubusercontent.com/37866322/102145920-73ea5980-3eab-11eb-80da-787a459b8993.png)
+![image](https://user-images.githubusercontent.com/37866322/102145950-84023900-3eab-11eb-8d48-2141a42d6f89.png)
+![image](https://user-images.githubusercontent.com/37866322/102146019-a09e7100-3eab-11eb-8987-8f133642c0a4.png)
